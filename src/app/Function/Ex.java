@@ -1,8 +1,9 @@
 package app.Function;
 
-public class Ex extends Function {
+public class Ex extends Function{
+
     @Override
-    double get_y(double x) {
+    protected double function(double x) {
         return Math.exp(x);
     }
 }

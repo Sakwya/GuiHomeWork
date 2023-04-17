@@ -5,40 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17992af-6e80-469f-a069-4f7534974161" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GuiHomeWork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/CurvePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Function/Cos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Function/Ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Function/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Function/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Function/Sin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Function/Ssx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Function/Cos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Function/Ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Function/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Function/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Function/Sin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Function/Ssx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/PerceptronGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/PerceptronSample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/PerceptronSample/NegativeSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/PerceptronSample/PerceptronSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/PerceptronSample/PositiveSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/PerceptronSample/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Q.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Q2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Q2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson/Q3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Function/Custom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Function/Ln.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Function/MyButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Function/countTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/CurvePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/CurvePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Function/Cos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/Cos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Function/Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/Ex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Function/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Function/Sin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/Sin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Function/Ssx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/MyFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +37,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/app/CurvePanel.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/lesson/PerceptronSample/PerceptronSample.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,7 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TODO_SCOPE": "所有位置",
-    "last_opened_file_path": "C:/Users/DELL/Desktop/GuiHomeWork/src/app/Function",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/Java/GuiHomeWork",
     "settings.editor.selected.configurable": "project.propGUI"
   }
 }]]></component>
@@ -97,6 +75,19 @@
     </key>
   </component>
   <component name="RunManager" selected="应用程序.Main (1)">
+    <configuration name="Custom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Function.Custom" />
+      <module name="GuiHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="GuiHomeWork" />
@@ -110,19 +101,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson.Function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerceptronSample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson.PerceptronSample.PerceptronSample" />
-      <module name="GuiHomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson.PerceptronSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,10 +215,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.Main (1)" />
+        <item itemvalue="应用程序.Custom" />
         <item itemvalue="应用程序.lesson.Function.Main" />
         <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.PerceptronSample" />
-        <item itemvalue="应用程序.PerceptronSample (2)" />
       </list>
     </recent_temporary>
   </component>
