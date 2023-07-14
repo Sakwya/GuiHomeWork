@@ -1,6 +1,6 @@
 package app.Function;
 
-public class Ex extends Function{
+public class Ex extends Function {
 
     @Override
     protected double function(double x) {

@@ -1,11 +1,13 @@
 package app;
 
-public class App{
+public class App {
     private MyFrame frame;
-    public App(){
+
+    public App() {
         frame = new MyFrame();
     }
-    public MyFrame getFrame(){
+
+    public MyFrame getFrame() {
         return frame;
     }
 

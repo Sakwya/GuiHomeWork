@@ -47,11 +47,13 @@ public class MyButton extends JPanel {
             parent.setBackground(MyFrame.DEFAULT);
         }
     }
-    public static MyButton getSelect(){
+
+    public static MyButton getSelect() {
         return CustomMouseListener.selected;
     }
-    public static void setSelect(MyButton select){
-        CustomMouseListener.selected =select;
+
+    public static void setSelect(MyButton select) {
+        CustomMouseListener.selected = select;
     }
 
     public JLabel MAIN;
@@ -62,7 +64,7 @@ public class MyButton extends JPanel {
         MAIN = new JLabel(text);
         add(MAIN);
         MAIN.setFont(MyFrame.EN);
-        this.f=f;
+        this.f = f;
         setBackground(MyFrame.DEFAULT);
         addMouseListener(new CustomMouseListener(this));
     }

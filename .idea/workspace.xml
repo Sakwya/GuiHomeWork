@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17992af-6e80-469f-a069-4f7534974161" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/Function/Custom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Function/Ln.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Function/MyButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Function/countTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/CurvePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/CurvePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Function/Cos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/Cos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Function/Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/Ex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Function/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/Function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Function/Sin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/Sin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Function/Ssx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Function/Ln.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/Ln.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Function/MyButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Function/MyButton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TODO_SCOPE": "所有位置",
     "last_opened_file_path": "C:/Users/DELL/Desktop/Java/GuiHomeWork",
-    "settings.editor.selected.configurable": "project.propGUI"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
   <component name="RecentsManager">
